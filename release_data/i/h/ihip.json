@@ -1,8 +1,8 @@
 {
     "1.0.8": {
         "info": {
-            "author": "Infosys",
-            "author_email": "veena.devipalamuri@infosys.com",
+            "author": "sample",
+            "author_email": "samples@gmail.com",
             "bugtrack_url": null,
             "classifiers": [],
             "description_content_type": "",
@@ -11,9 +11,7 @@
             "downloads": {
                 "last_day": -1,
                 "last_month": -1,
-                "last_week": -1
-            },
-            "home_page": "https://infygithub.ad.infosys.com/veena-devipalamuri/JupyterIntegration.git",
+                "last_week":"",
             "keywords": "",
             "license": "MIT",
             "maintainer": "",
@@ -23,7 +21,7 @@
             "platform": "",
             "project_url": "https://pypi.org/project/ihip/",
             "project_urls": {
-                "Homepage": "https://infygithub.ad.infosys.com/veena-devipalamuri/JupyterIntegration.git"
+                
             },
             "release_url": "https://pypi.org/project/ihip/1.0.8/",
             "requires_dist": null,
@@ -80,8 +78,8 @@
     },
     "1.0.9": {
         "info": {
-            "author": "Infosys",
-            "author_email": "veena.devipalamuri@infosys.com",
+            "author": "",
+            "author_email": "",
             "bugtrack_url": null,
             "classifiers": [],
             "description": "",
@@ -91,9 +89,7 @@
             "downloads": {
                 "last_day": -1,
                 "last_month": -1,
-                "last_week": -1
-            },
-            "home_page": "https://infygithub.ad.infosys.com/veena-devipalamuri/JupyterIntegration.git",
+                "last_week": -1,
             "keywords": "",
             "license": "MIT",
             "maintainer": "",
@@ -103,7 +99,7 @@
             "platform": "",
             "project_url": "https://pypi.org/project/ihip/",
             "project_urls": {
-                "Homepage": "https://infygithub.ad.infosys.com/veena-devipalamuri/JupyterIntegration.git"
+                "Homepage": ""
             },
             "release_url": "https://pypi.org/project/ihip/1.0.9/",
             "requires_dist": null,
